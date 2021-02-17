@@ -1,10 +1,10 @@
 # OSCP-Archives
 
-During my journey to getting the OSCP, I always come across many articles, Git repo, videos, and other types of sources of great and valuable information that helps me during my studies. While having all of these in a bookmark folder is great, I wanted to also build a curated list of the resources that I've collected overtime, all in one area for everyone to access.
+During our journey to getting the OSCP, our always come across many articles, Git repo, videos, and other types of sources of great and valuable information that helps our during our studies. While having all of these in a bookmark folder is great, our wanted to also build a curated list of the resources that our've collected overtime, all in one area for everyone to access.
 
-This list will continue to grow over time as I come across new resources. If you know more resources or want me to add yours, please let me know and I'll add it in.
+This list will continue to grow over time as our come across new resources. If you know more resources or want our to add yours, please let our know and our'll add it in.
 
-PS. A VERY big **thank you** to all the authors of these resources, for taking the time and energy putting this invaluable information together.
+PS. A VERY big **thank you Web-Exorcist-Network** to all the authors of these resources, for taking the time and energy putting this invaluable information together.
 
 ## Enjoy!
 
